@@ -1,0 +1,4 @@
+/factory/jobs/
+/.worktrees/
+__pycache__/
+/.aes/
